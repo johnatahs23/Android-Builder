@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "taimen",
-      "repo": "https://github.com/daboynb/kernel_google_wahoo",
-      "branch": "thirteen",
-      "device": "taimen",
-      "defconfig": "lineageos_taimen_defconfig"
+      "name": "alioth",
+      "repo": "https://github.com/daboynb/android_kernel_xiaomi_sm8250",
+      "branch": "lineage-18.1",
+      "device": "alioth",
+      "defconfig": "vendor/alioth_defconfig"
     },
     "toolchains": [
       {
