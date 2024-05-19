@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "alioth",
-      "repo": "https://github.com/daboynb/android_kernel_xiaomi_sm8250",
-      "branch": "lineage-18.1",
-      "device": "alioth",
-      "defconfig": "vendor/alioth_defconfig"
+      "name": "miatoll",
+      "repo": "https://github.com/daboynb/android_kernel_xiaomi_sm6250",
+      "branch": "lineage-20",
+      "device": "miatoll",
+      "defconfig": "vendor/xiaomi/miatoll_defconfig"
     },
     "toolchains": [
       {
