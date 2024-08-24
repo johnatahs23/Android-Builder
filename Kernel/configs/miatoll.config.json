@@ -9,8 +9,8 @@
     },
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/tags/android-14.0.0_r2/clang-r487747c.tar.gz",
-        "branch": "android-14.0.0_r2",
+        "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
+        "branch": "lineage-20.0",
         "name": "clang",
         "binaryEnv": [
           "bin"
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": false,
+    "enableKernelSU": true,
     "enableLXC": true
   }
 ]
