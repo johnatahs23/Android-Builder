@@ -8,7 +8,7 @@
       "defconfig": "vendor/xiaomi/miatoll_defconfig"
     },
     "toolchains": [
-    {
+      {
         "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/tags/android-14.0.0_r2/clang-r487747c.tar.gz",
         "branch": "android-14.0.0_r2",
         "name": "clang",
