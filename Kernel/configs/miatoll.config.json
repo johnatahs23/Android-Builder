@@ -9,8 +9,8 @@
     },
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86",
-        "branch": "clang-r487747c",
+        "repo": "https://gitlab.com/Dutaiclik/aosp-clang",
+        "branch": "17",
         "name": "clang",
         "binaryEnv": [
           "bin"
