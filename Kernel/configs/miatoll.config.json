@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "miatoll",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6250",
-      "branch": "lineage-21",
-      "device": "miatoll",
-      "defconfig": "vendor/xiaomi/miatoll_defconfig"
+      "repo": "https://github.com/johnatahs23/KernelSU-Pixel4XL",
+      "branch": "main",
+      "device": "google",
+      "defconfig": "/arch/arm64/configs/floral_defconfig"
     },
     "toolchains": [
       {
