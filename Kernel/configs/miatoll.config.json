@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "miatoll",
+      "name": "pixel4",
       "repo": "https://github.com/johnatahs23/KernelSU-Pixel4XL",
       "branch": "main",
       "device": "google",
