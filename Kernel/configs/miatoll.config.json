@@ -5,7 +5,7 @@
       "repo": "https://github.com/johnatahs23/KernelSU-Pixel4XL",
       "branch": "main",
       "device": "google",
-      "defconfig": "/arch/arm64/configs/floral_defconfig"
+      "defconfig": "floral_defconfig"
     },
     "toolchains": [
       {
